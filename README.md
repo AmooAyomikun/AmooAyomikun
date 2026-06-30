@@ -1,40 +1,44 @@
-<h1 align="center">Hi 👋, I'm Ayomikun Amoo</h1>
+<h1 align="center">
+Hi 👋, I'm Ayomikun Amoo
+</h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • Problem Solver
+Software Engineer • Full Stack Developer • React • Django • TypeScript
 </h3>
 
 <p align="center">
-I build modern web applications that solve real-world problems in healthcare, fintech, education, and property technology.
+Building scalable web applications that solve real-world problems across Healthcare, FinTech, Education and Property Technology.
 </p>
+
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=25&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Software+Engineer;Full+Stack+Developer;React+%7C+TypeScript+%7C+Python;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Frontend+Specialist;React+%7C+TypeScript+%7C+Python+%7C+Django;Building+Products+That+People+Love;Open+to+Remote+Opportunities;Always+Learning+New+Technologies" />
 
 </p>
 
-## 👨‍💻 About Me
+<p align="center">
 
-I'm **Ayomikun Amoo**, a Software Engineering graduate passionate about building software that solves real-world problems.
+<a href="https://linkedin.com/in/www.linkedin.com/in/ayomikun-amoo-6b836428b">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-I enjoy turning ideas into modern digital products using **React, TypeScript, Python, Django, Node.js, and PostgreSQL**.
+</a>
 
-My interests span across:
+<a href="mailto:amooquadri555@gmail.com">
 
-- 🏥 Health Technology
-- 💰 Financial Technology
-- 🎓 Educational Technology
-- 🏠 Property Technology
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 
-Beyond writing code, I enjoy mentoring aspiring developers, learning new technologies, conducting research, and continuously improving my software engineering skills.
+</a>
 
-I believe technology should solve meaningful problems while delivering exceptional user experiences.
+<a href="https://YOUR_PORTFOLIO">
 
-## 💼 Currently
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
-- 🔭 Building full-stack web applications
-- 🌱 Learning Docker, AWS, and CI/CD
-- 👨‍💻 Research Assistant (NYSC) at Delta State University
-- 💬 Ask me about React, TypeScript, Python, Django, and Node.js
-- ⚡ Fun fact: I enjoy designing products before writing code.
+</a>
 
+<a href="https://x.com/ayomhykun">
+
+<img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x"/>
+
+</a>
+
+</p>
