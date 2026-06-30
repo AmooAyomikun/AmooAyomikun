@@ -13,15 +13,6 @@ I build modern web applications that solve real-world problems in healthcare, fi
 
 </p>
 
-Software Engineer
-
-Full Stack Developer
-
-React | TypeScript | Python
-
-Building Scalable Web Applications
-
-Always Learning Something New
 
 
 <!--
