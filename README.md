@@ -18,7 +18,7 @@ Building scalable web applications that solve real-world problems across Healthc
 
 <p align="center">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/ayomikun-amoo-6b836428b">
+<a href="https://linkedin.com/in/ayomikun-amoo-6b836428b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
