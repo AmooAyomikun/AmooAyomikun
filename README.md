@@ -13,19 +13,28 @@ I build modern web applications that solve real-world problems in healthcare, fi
 
 </p>
 
+## 👨‍💻 About Me
 
+I'm **Ayomikun Amoo**, a Software Engineering graduate passionate about building software that solves real-world problems.
 
-<!--
-**AmooAyomikun/AmooAyomikun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy turning ideas into modern digital products using **React, TypeScript, Python, Django, Node.js, and PostgreSQL**.
 
-Here are some ideas to get you started:
+My interests span across:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏥 Health Technology
+- 💰 Financial Technology
+- 🎓 Educational Technology
+- 🏠 Property Technology
+
+Beyond writing code, I enjoy mentoring aspiring developers, learning new technologies, conducting research, and continuously improving my software engineering skills.
+
+I believe technology should solve meaningful problems while delivering exceptional user experiences.
+
+## 💼 Currently
+
+- 🔭 Building full-stack web applications
+- 🌱 Learning Docker, AWS, and CI/CD
+- 👨‍💻 Research Assistant (NYSC) at Delta State University
+- 💬 Ask me about React, TypeScript, Python, Django, and Node.js
+- ⚡ Fun fact: I enjoy designing products before writing code.
+
