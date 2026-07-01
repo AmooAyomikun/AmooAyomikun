@@ -25,7 +25,7 @@ Software Engineer • Full Stack Developer • React • Django • TypeScript
 
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
+<a href="https://amoo-quadri-ayomikun-portfolio.onrender.com/">
 
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 
