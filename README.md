@@ -40,22 +40,22 @@ Software Engineer • Full Stack Developer • React • Django • TypeScript
 </p>
 
 
-# 👨‍💻 About Me
+# About Me
 
 I'm **Ayomikun Amoo**, a Software Engineer passionate about designing and building digital products that solve real-world problems. I enjoy transforming ideas into scalable, user-friendly applications using modern web technologies, with a strong focus on creating clean user experiences, writing maintainable code, and building software that delivers real value.
 Beyond coding, I enjoy mentoring aspiring developers, exploring emerging technologies, contributing to meaningful projects, and continuously improving my technical and professional skills.
 
 I believe the best software doesn't just work,it solves real problems, creates great user experiences, and makes people's lives easier.
 
-## 💡 What Drives Me
+## What Drives Me
 
 I enjoy building products that solve everyday challenges and I'm motivated by creating software that has meaningful impact.
 
 Every project I build is an opportunity to learn something new, improve my engineering skills, and create experiences that users genuinely enjoy.
 
-# 💻 Tech Stack & Tools
+# Tech Stack & Tools
 
-### 🎨 Frontend Development
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite" />
@@ -63,7 +63,7 @@ Every project I build is an opportunity to learn something new, improve my engin
 
 ---
 
-### ⚙️ Backend Development
+### Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
@@ -71,7 +71,7 @@ Every project I build is an opportunity to learn something new, improve my engin
 
 ---
 
-### 🗄️ Databases & ORM
+###  Databases & ORM
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase" />
@@ -83,14 +83,14 @@ Prisma ORM
 
 ---
 
-### 🛠️ Development Tools
+### Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
 <img height="180em"
