@@ -100,9 +100,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A
   <img src="https://streak-stats.demolab.com?user=AmooAyomikun&theme=tokyonight&hide_border=true&border_radius=8" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AmooAyomikun&theme=tokyo-night&hide_border=true"/>
-</p>
+
 
 
 
