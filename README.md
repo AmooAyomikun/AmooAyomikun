@@ -3,7 +3,7 @@ Hi 👋, I'm Ayomikun Amoo
 </h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • React • Django • TypeScript
+Software Engineer • Frontend Engineer • Full Stack Developer
 </h3>
 
 <p align="center">
