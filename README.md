@@ -90,9 +90,13 @@ Prisma ORM
 </p>
 
 ---
-## GitHub Statistics
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-languages?username=AmooAyomikun&theme=tokyonight" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=AmooAyomikun&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
